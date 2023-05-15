@@ -105,3 +105,12 @@ a{
     padding-left: 0;
     color: var(--color-headings);
 }
+.list--inline .list__item{
+    display: inline-block;
+    margin-right: 2rem;
+}
+.list--tick{
+    list-style-image: url(../images/._snap.svgsvg);
+    padding-left: 3rem;
+}
+
